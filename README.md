@@ -1,2 +1,3 @@
 # spacemacs-config
-Config for spacemacs distort of emacs
+
+Config for spacemacs distribution of emacs
