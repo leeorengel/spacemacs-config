@@ -49,3 +49,15 @@ private/
 !private/snippets/README.md
 !private/local/README.md
 /games/
+
+/CONTRIBUTING.org
+/CHANGELOG.org
+/.travis.yml
+/.travis-build.sh
+
+/tests/
+/doc/
+
+/.projectile
+
+/.github/
